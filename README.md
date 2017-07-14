@@ -2,7 +2,7 @@
 
 Sardi consists of 6 major icon themes and 10 different kind of folders.
 
-Here we are using the **MODULARITY** of the Sard icons by changing the inherits line.
+Here we are using the **MODULARITY** of the Sardi icons by changing the inherits line.
 
 These icons are an example what you can do with the Sardi icons.
 
